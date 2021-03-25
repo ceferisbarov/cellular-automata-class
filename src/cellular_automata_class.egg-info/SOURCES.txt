@@ -1,0 +1,9 @@
+README.md
+pyproject.toml
+setup.cfg
+src/cellular_automata_class/__init__.py
+src/cellular_automata_class/cell.py
+src/cellular_automata_class.egg-info/PKG-INFO
+src/cellular_automata_class.egg-info/SOURCES.txt
+src/cellular_automata_class.egg-info/dependency_links.txt
+src/cellular_automata_class.egg-info/top_level.txt
